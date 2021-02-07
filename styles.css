@@ -1,0 +1,33 @@
+h1{
+    color:#30475e;
+    font-weight: bold;
+    text-align: center;
+    border-style: solid;
+    border: 2;
+    font-family: 'Potta One', cursive;
+}
+
+h1:hover{
+    color: #4b2828;
+}
+
+body{
+    background-color: #dddddd;
+    margin: 0;
+    font-size: 1.2em;
+    
+}
+
+.subtitulo{
+    border-style: dotted;
+    color: #30475e;
+    font-size: 2rem;
+    padding: 7% 25%;
+}
+
+#habilidades{
+    background: #222831;
+    color: white;
+    padding: 7% 25%;
+    margin: 0;
+}
